@@ -1,1 +1,9 @@
+mysql assg 1
+--------------------------------------
+1. What is the difference between truncate, delete, drop?
+2. What are alias in MySQL?
+3. How do you display even rows of the any table?
+4. How can you remove duplicates from a table(distinct and other way)
+5.How you can find 5th max salary?(Do it by all 3 ways)
+------------------------------------------------------------------
 
